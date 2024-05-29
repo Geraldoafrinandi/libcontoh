@@ -1,0 +1,11 @@
+{
+    "name": "gerald/libhalo",
+    "description": "Pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "psr-4" : {"gerald\\libhalo\\" : "src"}
+    }
+    
+}
